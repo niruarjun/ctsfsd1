@@ -7,6 +7,5 @@ public interface BookService {
 
 	public List<Book> getAllBooks();
 	public Optional<Book> getBookById(Integer bookId);
-	
 
 }
